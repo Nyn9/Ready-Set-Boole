@@ -1,7 +1,5 @@
 #include "../RSB.hpp"
 
-using namespace std;
-
 const char* RED = "\x1b[1;31m";
 const char* GREEN = "\x1b[1;32m";
 const char* RESET = "\x1b[0m";
